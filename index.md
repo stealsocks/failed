@@ -44,7 +44,7 @@
 </p>
 
 
-  <script src="groove.js"></script>
+  <script src="groove.js" type="text/javascript"></script>
 
 
 
