@@ -42,11 +42,6 @@
 <p align=center><button name="button" class="button" id="startBtn">Start</button>
   <button name="button" id="stopBtn" class="button" >Stop</button></p></div>
 </p>
-
-
-  <script src="groove.js" type="text/javascript"></script>
-
-
-
+ <script src="groove.js" type="text/javascript"></script>
 </body>
 </html>
