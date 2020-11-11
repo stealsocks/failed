@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
  <title>Groove</title>
-  <link rel="stylesheet" href="groovebrown.css">
+  <link rel="stylesheet" href="/stealsocks.github.io/groovebrown.css">
 </head>
 <body>
 
@@ -44,7 +44,7 @@
 </p>
 
 
-  <script src=groove.js>
+  <script src="/stealsocks.github.io/groove.js">
 
 
 </script>
